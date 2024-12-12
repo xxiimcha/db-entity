@@ -1,0 +1,4 @@
+F:\Commissions\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.AssemblyReference.cache
+F:\Commissions\ProductManagementApp\obj\Debug\ProductManagementApp.Properties.Resources.resources
+F:\Commissions\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.GenerateResource.cache
+F:\Commissions\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.CoreCompileInputs.cache
